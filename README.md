@@ -28,6 +28,14 @@ just upload the  file that has extention .ipynb such as Assignment1.ipynb and up
 #  output of running the code  <br />
 ![output of running the code](https://github.com/Mohammed-Ragab/-CSE-578-Data-Visualization/assets/37158885/e6092390-04ec-431a-a1b8-8f352da68c11)
 
+# how to install jupyter lab notebook locally on my computer ?
+you can install jupyter notebook by following the instructions in this link 
+
+https://jupyter.org/install
+
+here is an screenshot of after install jupyter lab locall on my computer:  <br />
+![after run jupyter lab locall on my computer](https://github.com/Mohammed-Ragab/-CSE-578-Data-Visualization/assets/37158885/3b9cc0a4-82de-4152-956b-e9307b386b20)
+
 
 # note:
 make sure that the database file "dinofunworld.db" is in the same folder/directory of the code so that the python program read the database file. also check the database path in the python code in each assignment.
