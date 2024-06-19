@@ -16,5 +16,18 @@ You will need following libraries installed in your machine: <br />
 ● Pandas <br />
 ● sqlite3 <br />
 
+# easy wasy to run the code online:
+there is a simpler was to run and experiment the code by using online free jupyter notebook, you can use it for free from this link
+https://jupyter.org/try-jupyter/lab/
+
+just upload the  file that has extention .ipynb such as Assignment1.ipynb and upload the "dinofunworld.db" to jupyter notebook website and run the code as presented in the following screenshot:
+
+# how run the code - example:
+![how run the code - example](https://github.com/Mohammed-Ragab/-CSE-578-Data-Visualization/assets/37158885/177d6a7c-0878-4d3c-b76e-62e082174dd0)
+ <br />
+#  output of running the code  <br />
+![output of running the code](https://github.com/Mohammed-Ragab/-CSE-578-Data-Visualization/assets/37158885/e6092390-04ec-431a-a1b8-8f352da68c11)
+
+
 # note:
 make sure that the database file "dinofunworld.db" is in the same folder/directory of the code so that the python program read the database file. also check the database path in the python code in each assignment.
