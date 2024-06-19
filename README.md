@@ -28,6 +28,10 @@ just upload the  file that has extention .ipynb such as Assignment1.ipynb and up
 #  output of running the code  <br />
 ![output of running the code](https://github.com/Mohammed-Ragab/-CSE-578-Data-Visualization/assets/37158885/e6092390-04ec-431a-a1b8-8f352da68c11)
 
+# output of running another code  <br />
+![example line chart](https://github.com/Mohammed-Ragab/-CSE-578-Data-Visualization/assets/37158885/eae9042a-a99c-4594-9ee3-c22267eb61d1)
+
+
 # how to install jupyter lab notebook locally on my computer ? <br />
 you can install jupyter notebook by following the instructions in this link 
 https://jupyter.org/install
